@@ -1,9 +1,9 @@
 ### Hi there 👋
-I’m currently working on ...
-Android Development
-Web Development
-UI/UX Designer
-Graphic Designer
+I’m currently working on ...<br>
+Android Development<br>
+Web Development<br>
+UI/UX Designer<br>
+Graphic Designer<br>
 
 <!--
 **YadavSumit2408/YadavSumit2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
